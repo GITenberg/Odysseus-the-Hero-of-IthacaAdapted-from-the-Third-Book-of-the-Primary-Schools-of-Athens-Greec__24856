@@ -30,6 +30,8 @@ creator:
     gutenberg_agent_id: '6710'
     url: http://www.gutenberg.org/2009/agents/6710
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24856#Odysseus-the-Hero-of-IthacaAdapted-from-the-Third-Book-of-the-Primary-Schools-of-Athens-Greec_
 gutenberg_issued: '2008-03-16'
 gutenberg_type: Text
 identifiers:
