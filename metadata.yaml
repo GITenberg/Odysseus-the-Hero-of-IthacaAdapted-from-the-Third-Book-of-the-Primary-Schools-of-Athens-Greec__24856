@@ -1,0 +1,51 @@
+_repo: Odysseus-the-Hero-of-IthacaAdapted-from-the-Third-Book-of-the-Primary-Schools-of-Athens-Greec__24856
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Ragozin, Zénaïde A. (Zénaïde Alexeïevna)
+    aliases:
+    - Ragozin, Zénaïde Alexeïevna
+    - Ragozin, Zenaide A. (Zenaide Alexeievna)
+    birthdate: 1835
+    deathdate: 1924
+    gutenberg_agent_id: '26649'
+    url: http://www.gutenberg.org/2009/agents/26649
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Homer
+    alias: Όμηρος
+    birthdate: -750
+    deathdate: -650
+    gutenberg_agent_id: '705'
+    url: http://www.gutenberg.org/2009/agents/705
+    wikipedia: http://en.wikipedia.org/wiki/Homer
+  editor:
+    agent_name: Burt, Mary E. (Mary Elizabeth)
+    alias: Burt, Mary Elizabeth
+    birthdate: 1850
+    deathdate: 1918
+    gutenberg_agent_id: '6710'
+    url: http://www.gutenberg.org/2009/agents/6710
+description: ''
+gutenberg_issued: '2008-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24856'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Classical poetry -- Translations into English'
+- !lcsh 'Odysseus, King of Ithaca (Mythological character) -- Juvenile literature'
+- !lcsh 'Homer -- Translations into English'
+- !lcsh 'Classical literature'
+- !lcc 'PZ'
+- !lcsh 'Epic poetry, Greek -- Translations into English'
+title: 'Odysseus, the Hero of Ithaca
+
+  Adapted from the Third Book of the Primary Schools of Athens, Greece'
+url: http://www.gutenberg.org/ebooks/24856
